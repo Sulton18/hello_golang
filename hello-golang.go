@@ -1,5 +1,5 @@
 package go_hello
 
-func HelloGo() string {
+func HelloGo(nama string) string {
 	return "hello world"
 }
